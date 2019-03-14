@@ -1,7 +1,7 @@
 # dota-lights-with-sockets
 Remaking dota lights this time with sockets. This is a Node.JS package so get that set up first. It is very simple. 
 
-# Set Yp Dota-GSi-Sockets
+# Set Up Dota-GSi-Sockets
 https://github.com/xzion/dota2-gsi-sockets
 
 # Working Server Events
